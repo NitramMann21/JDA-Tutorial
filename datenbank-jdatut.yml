@@ -1,0 +1,15 @@
+!!de.onlinehome.mann.martin.jdatut.YamlUtil$YamlData
+integer: 1037
+spamStateDatas:
+- lastMsg: '*stage'
+  lastMsgSentWhen: 1625391935785
+  memberId: 424474905418137618
+  msgCount: 2
+  muteEnd: 1622992589148
+  warningCount: 2
+- lastMsg: ''
+  lastMsgSentWhen: -1
+  memberId: 845580944466247680
+  msgCount: 0
+  muteEnd: -1
+  warningCount: 0
